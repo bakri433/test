@@ -26,6 +26,7 @@ header{
     min-height: 100px;
     background-color: white;
     box-shadow: 0 0 10px rgba(26, 23, 48, .5);
+    width:100%;
 
 }
 header nav {
